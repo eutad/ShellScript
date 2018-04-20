@@ -1,4 +1,5 @@
 #!/bin/bash
+#Script para verificar maquinas online
 if [ "$1" == "" ]
 then 
 echo " Exemplo de uso $0 192.168.0"
